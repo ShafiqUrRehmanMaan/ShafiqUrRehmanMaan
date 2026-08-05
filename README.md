@@ -11,6 +11,7 @@ Software Engineering student (5th semester) at **University of Agriculture, Fais
 
 **Languages:** 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Web:** 
@@ -22,7 +23,6 @@ Software Engineering student (5th semester) at **University of Agriculture, Fais
 **Databases:** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
 ### 🚀 Featured Projects
 
 | Project | Stack | What it does |
