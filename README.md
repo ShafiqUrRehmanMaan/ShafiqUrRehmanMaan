@@ -7,8 +7,6 @@ Software Engineering student (5th semester) at **University of Agriculture, Fais
 📫 Reach me: rehmanshafiqurrehman727@gmail.com
 
 ---
-
-
 ### 🛠 Tech Stack
 
 **Languages:** 
@@ -37,6 +35,15 @@ Software Engineering student (5th semester) at **University of Agriculture, Fais
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
+
+
+**Databases:** 
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+ 
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 
 **Databases:** 
